@@ -6,8 +6,17 @@
     <description>Recent content on Mato Hugo tinklalapis</description>
     <generator>Hugo</generator>
     <language>lt-LT</language>
-    <lastBuildDate>Wed, 20 May 2026 16:10:00 +0300</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 16:30:00 +0300</lastBuildDate>
     <atom:link href="https://Macenis.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apie mane</title>
+      <link>https://Macenis.github.io/apie/</link>
+      <pubDate>Wed, 20 May 2026 16:30:00 +0300</pubDate>
+      <guid>https://Macenis.github.io/apie/</guid>
+      <description>&lt;p&gt;# Apie mane&lt;/p&gt;
+&lt;p&gt;Aš esu Matas Macenis.&lt;/p&gt;
+&lt;p&gt;Šis puslapis yra papildomas Hugo tinklalapio meniu punktas, sukurtas laboratoriniam darbui.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Pirmas įrašas</title>
       <link>https://Macenis.github.io/posts/pirmas-irasas/</link>
